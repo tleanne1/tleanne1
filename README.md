@@ -1,4 +1,4 @@
-<h1>Hi, Tracey! <br/><a href="https://github.com/tleanne1">Programmer</a>, <a href="https://www.linkedin.com/in/tleanne/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, Tracey! <br/><a href="https://github.com/tleanne1">Programmer</a>, <a href="https://www.linkedin.com/in/tleanne/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
