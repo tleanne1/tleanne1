@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔐 Cybersecurity Projects:
 
-- **[Creating a Live SOC/ Honeynet in Azure](https://github.com/tleanne1/Cloud-SOC)**
+- **[Creation of SOC and Honeynet in Azure](https://github.com/tleanne1/Cloud-SOC)**
   
 ## ⚠️ Vulnerability Management Projects
 
