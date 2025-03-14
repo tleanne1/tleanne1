@@ -15,6 +15,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tleanne1/threat-hunting-scenario-tor/tree/main)**
+- **[Threat Hunting Scenario (Zero-Day)](https://github.com/tleanne1/threat-hunting-scenario-zero-day)**
+- **[Threat Hunting Scenario (Keylogger)](https://github.com/tleanne1/threat-hunting-scenario-keylogger)**
 
 <h2>🌐 Connect with me:</h2>
 
