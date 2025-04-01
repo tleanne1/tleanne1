@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tleanne1/threat-hunting-scenario-tor/tree/main)**
 - **[Threat Hunting Scenario (Zero-Day)](https://github.com/tleanne1/threat-hunting-scenario-zero-day)**
 - **[Threat Hunting Scenario (Keylogger)](https://github.com/tleanne1/threat-hunting-scenario-keylogger)**
-- **[Threat Hunting Scenario (Azure Abuse Incident)](https://github.com/tleanne1/threat-hunting-scenario-keylogger)**
+- **[Threat Hunting Scenario (Azure Abuse Incident)](https://github.com/tleanne1/threat-hunting-Azure-Abuse-Incident)**
 
 <h2>🌐 Connect with me:</h2>
 
