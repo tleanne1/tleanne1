@@ -49,7 +49,8 @@ I specialize in combining automation and detection engineering to proactively hu
 ## 🎨 Frontend Development Projects
 
 - 💼 **[Modern Portfolio Website](https://github.com/tleanne1/modern-portfolio)**  
-  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals, and dark mode toggle.
+  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals, and dark mode toggle. <br/>
+  🔗 [Live Demo](https://tleanne.dev/)
 
 - 🍴 **[BestEats - Restaurant Finder](https://github.com/tleanne1/best-eats)**  
   A responsive React web app using TailwindCSS to filter and display restaurants by category and price. Emphasizes clean UI and component-based design.  
