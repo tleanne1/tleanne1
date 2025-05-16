@@ -3,7 +3,7 @@
 <p align="center">
 🔐 Passionate about securing digital environments through hands-on detection, response, and automation. <br/>
 💻 Frontend dev experience in modern JavaScript frameworks. <br/>
-📍 Based in Dallas, TX, willing to relocate | 💼 Open to Remote & On-Site Roles
+💼 Open to Remote & On-Site Roles
 </p>
 
 I'm a cybersecurity professional and frontend developer with a strong background in:
