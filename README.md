@@ -44,6 +44,9 @@ I specialize in combining automation and detection engineering to proactively hu
 - ☁️ **[Threat Hunting: Azure Abuse Incident](https://github.com/tleanne1/threat-hunting-Azure-Abuse-Incident)**  
   Responded to brute-force attack on Azure resources, analyzed KQL logs, and documented attacker TTPs.
 
+- 🕵️‍♀️ **[Threat Hunting: The Great Admin Heist](https://github.com/tleanne1/The-Great-Admin-Heist)**  
+  Investigated an APT-style attack targeting a privileged IT admin. Used Microsoft Defender for Endpoint (MDE) and KQL to uncover malware disguised as a fake antivirus, detect keylogger     deployment via `.lnk` files, and trace persistence through registry keys and scheduled tasks. Documented full attack chain, timeline, and response actions.
+
 ---
 
 ## 🎨 Frontend Development Projects
