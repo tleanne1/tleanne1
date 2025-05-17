@@ -33,17 +33,17 @@ I specialize in combining automation and detection engineering to proactively hu
 ## 🚨 Threat Hunting & Incident Response
 
 - 🕵️ **[Threat Hunt: Tor Browser Usage](https://github.com/tleanne1/threat-hunting-scenario-tor/tree/main)**  
-  Investigated suspicious encrypted browsing patterns via process and DNS telemetry.
+  Tracked unauthorized Tor browser installation and usage on a corporate asset. Analyzed device events, process telemetry, and network activity to detect encrypted browsing over non-        standard ports.
 
 - 🧪 **[Incident Response: Zero-Day Scenario](https://github.com/tleanne1/threat-hunting-scenario-zero-day)**  
-  Simulated response to a zero-day exploitation and documented IOCs, attack vectors, and mitigation steps.
+  Simulated a zero-day exploit against an enterprise endpoint. Investigated suspicious behavior, extracted IOCs, and documented containment, eradication, and recovery steps.
 
 - 📄 **[Incident Response: Keylogger Investigation](https://github.com/tleanne1/threat-hunting-scenario-keylogger)**  
-  Detected and removed persistent keylogging malware through registry and file analysis.
+  Identified persistent keylogging malware through registry and file system artifacts. Used Defender telemetry and KQL to map infection timeline and disable startup mechanisms.
 
 - ☁️ **[Threat Hunting: Azure Abuse Incident](https://github.com/tleanne1/threat-hunting-Azure-Abuse-Incident)**  
-  Responded to brute-force attack on Azure resources, analyzed KQL logs, and documented attacker TTPs.
-
+  Responded to brute-force authentication attempts targeting Azure resources. Used Microsoft Defender for Cloud and KQL to investigate anomalous logon activity, correlate IP intelligence,   and trace lateral movement.
+  
 - 🕵️‍♀️ **[Threat Hunting: The Great Admin Heist](https://github.com/tleanne1/The-Great-Admin-Heist)**  
   Investigated an APT-style attack targeting a privileged IT admin. Used Microsoft Defender for Endpoint (MDE) and KQL to uncover malware disguised as a fake antivirus, detect keylogger     deployment via `.lnk` files, and trace persistence through registry keys and scheduled tasks. Documented full attack chain, timeline, and response actions.
 
