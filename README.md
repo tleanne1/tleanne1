@@ -65,7 +65,7 @@ I specialize in combining automation and detection engineering to proactively hu
   🔗 [Live Demo](https://storytime-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/storytime-client)
 
 
-- 🐾 **Modern Portfolio Website**  
+- 💻 **Modern Portfolio Website**  
   Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals.
   🔗 [Live Demo](https://tleanne.dev/) 🔗 [Github](https://github.com/tleanne1/developer.portfolio)
 
