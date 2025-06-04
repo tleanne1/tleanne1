@@ -66,7 +66,7 @@ I specialize in combining automation and detection engineering to proactively hu
 
 
 - 💻 **Modern Portfolio Website**  
-  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals.
+  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals.<br/>
   🔗 [Live Demo](https://tleanne.dev/) 🔗 [Github](https://github.com/tleanne1/developer.portfolio)
 
   
