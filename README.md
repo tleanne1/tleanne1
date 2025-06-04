@@ -51,21 +51,24 @@ I specialize in combining automation and detection engineering to proactively hu
 
 ## 🎨 Frontend Development Projects
 
-- 💼 **[Modern Portfolio Website](https://github.com/tleanne1/modern-portfolio)**  
-  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals, and dark mode toggle. <br/>
-  🔗 [Live Demo](https://tleanne.dev/)
+- 💼 **Harmony Yoga – Responsive Studio Website**  
+  Elegant and calming multi-page React site for a fictional yoga studio. Includes animated transitions, service highlights, and a working contact form. <br/>
+  🔗 [Live Demo](https://harmony-yoga-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/harmony-yoga-client)
 
-- 🍴 **[BestEats - Restaurant Finder](https://github.com/tleanne1/best-eats)**  
-  A responsive React web app using TailwindCSS to filter and display restaurants by category and price. Emphasizes clean UI and component-based design.  
-  🔗 [Live Demo](https://best-eats-tleanne.netlify.app/)
+- 🍴 **BloomBakery – Artisan Cupcake Website**  
+  Charming bakery-themed site showcasing product offerings, testimonials, and seasonal promotions. Built with Tailwind CSS and Framer Motion.  
+  🔗 [Live Demo](https://bloombakery-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/bloombakery-client)
 
-- 🏦 **[Modern Bank Landing Page](https://github.com/tleanne1/modern-bank)**  
-  A sleek landing page for a fictional digital bank built with React and CSS. Includes responsive layout, feature highlights, and call-to-actions.  
-  🔗 [Live Demo](https://modern-bank-tleanne.netlify.app/)
 
-- 🐾 **[The DogHouse - Pet Services Website](https://github.com/tleanne1/the-doghouse)**  
-  Static website built with HTML, CSS, and JavaScript. Showcases pet grooming and daycare services with a clean layout and mobile responsiveness.  
-  🔗 [Live Demo](https://thedoghouse-tleanne.netlify.app/)
+- 🏦 **StoryTime Kids – Children's Author Portfolio**  
+  Playful, colorful author website built for a fictional children's book writer. Features book highlights, event calendar, and contact form. 
+  🔗 [Live Demo](https://storytime-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/storytime-client)
+
+
+- 🐾 **Modern Portfolio Website(https://github.com/tleanne1/developer.portfolio)**  
+  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals.
+  🔗 [Live Demo](https://tleanne.dev/) 🔗 [Github](https://github.com/tleanne1/harmony-yoga-client)
+
   
 ---
 
