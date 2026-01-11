@@ -1,19 +1,41 @@
-<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | Frontend Developer</h1>
+<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | SOC Automation, AI & Frontend Developer</h1>
 
 <p align="center">
-🔐 Passionate about securing digital environments through hands-on detection, response, and automation. <br/>
+🔐 Passionate about securing digital environments through hands-on detection, response, vulnerability management, dark web monitoring, and intelligent automation. <br/>
+🤖 I build AI-powered SOC tooling that simulates how real analysts triage, pivot, escalate, and document investigations. <br />
 💻 Frontend dev experience in modern JavaScript frameworks. <br/>
 💼 Open to Remote & On-Site Roles
 </p>
 
 I'm a cybersecurity professional and frontend developer with a strong background in:
 
-- **Threat Detection, Vulnerability Management, and Incident Response**
-- **SIEM and EDR platforms** like Microsoft Defender for Endpoint and Sentinel
+- **Threat Detection, Vulnerability Management, Dark Web Monitoring, and Incident Response**
+- **SIEM and EDR platforms** l(Microsoft Defender for Endpoint, Sentinel, Azure Log Analytics)
+- **Tenable vulnerability scanning**, remediation workflows, and risk prioritization
+- **Security automation**, detection engineering, and AI-assisted SOC workflows
 - **PowerShell and KQL scripting** for investigation and remediation
 - **Frontend Development** using React, TailwindCSS, and JavaScript
 
-I specialize in combining automation and detection engineering to proactively hunt threats and reduce risk across cloud and on-prem environments.
+I specialize in combining automation, AI-driven detection engineering, and vulnerability management to proactively hunt threats and reduce risk across cloud and on-prem environments.
+
+
+## 🚨 Flagship SOC Automation Platform — Agentic SOC Analyst
+
+### 🧠 Agentic SOC Engine (AI Threat Hunting Core)
+AI-powered SOC automation engine that converts analyst intent into safe KQL hunts, baselines normal activity, pivots investigations, maps kill-chain stages, and guides escalation decisions.
+
+**Tech:** Python • Azure Log Analytics (KQL) • Microsoft Defender • OpenAI  
+👉 https://github.com/tleanne1/agentic_ai_agent_v3
+
+---
+
+### 🖥️ Agentic SOC Dashboard (SOC Command & Decision UI)
+SOC-style command dashboard UI that sits on top of the engine to visualize investigations, triage risk, preserve analyst knowledge, and mirror real SOC workflows.
+
+**Tech:** Next.js • React • TypeScript • TailwindCSS  
+👉 https://github.com/tleanne1/agentic_soc_ui
+
+---
 
 ## 🔐 Cloud & Security Projects
 
