@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | SOC Automation, AI & Frontend Developer</h1>
 
-<p align="center">
+<p>
 🔐 Passionate about securing digital environments through hands-on detection, response, vulnerability management, dark web monitoring, and intelligent automation. <br/>
 🤖 I build AI-powered SOC tooling that simulates how real analysts triage, pivot, escalate, and document investigations. <br />
 💻 Frontend dev experience in modern JavaScript frameworks. <br/>
 💼 Open to Remote & On-Site Roles
-</p>
+</p><br />
+
 
 I'm a cybersecurity professional and frontend developer with a strong background in:
 
