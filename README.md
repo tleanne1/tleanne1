@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | SOC Automation, AI & Frontend Developer</h1>
+<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | AI Security Engineer • SOC Automation • Threat Detection</h1>
 
 <p>
 🔐 Passionate about securing digital environments through hands-on detection, response, vulnerability management, dark web monitoring, and intelligent automation. <br/>
@@ -72,26 +72,20 @@ SOC-style command dashboard UI that sits on top of the engine to visualize inves
 
 ---
 
-## 🎨 Frontend Development Projects
+🤖 AI Security & Governance
 
-- 💼 **Harmony Yoga – Responsive Studio Website**  
-  Elegant and calming multi-page React site for a fictional yoga studio. Includes animated transitions, service highlights, and a working contact form. <br/>
-  🔗 [Live Demo](https://harmony-yoga-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/harmony-yoga-client)
+### AI Security Risk Assessment Framework
 
-- 🍴 **BloomBakery – Artisan Cupcake Website**  
-  Charming bakery-themed site showcasing product offerings, testimonials, and seasonal promotions. Built with Tailwind CSS and Framer Motion.  
-  🔗 [Live Demo](https://bloombakery-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/bloombakery-client)
+Enterprise framework focused on:
 
+- AI Governance
+- Threat Modeling
+- NIST AI RMF
+- Vendor Risk Management
+- Security Controls
+- AI Risk Assessments
 
-- 🏦 **StoryTime Kids – Children's Author Portfolio**  
-  Playful, colorful author website built for a fictional children's book writer. Features book highlights, event calendar, and contact form. 
-  🔗 [Live Demo](https://storytime-client.vercel.app/) 🔗 [Github](https://github.com/tleanne1/storytime-client)
-
-
-- 💻 **Modern Portfolio Website**  
-  Built a personal portfolio using React, TailwindCSS, and Framer Motion. Features smooth animations, responsive design, project modals.<br/>
-  🔗 [Live Demo](https://tleanne.dev/) 🔗 [Github](https://github.com/tleanne1/developer.portfolio)
-
+🔗 https://github.com/tleanne1/ai-security-risk-assessment-framework
   
 ---
 
