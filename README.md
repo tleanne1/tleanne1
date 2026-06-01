@@ -72,7 +72,7 @@ SOC-style command dashboard UI that sits on top of the engine to visualize inves
 
 ---
 
-🤖 AI Security & Governance
+🤖 🤖 AI Security & Risk Management
 
 ### AI Security Risk Assessment Framework
 
