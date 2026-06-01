@@ -54,14 +54,16 @@ Analyst-focused investigation platform that visualizes hunt results, preserves i
 
 ## ⚡ Detection Engineering
 
-Built a structured detection engineering framework using KQL, MITRE ATT&CK mapping, validation workflows, detection lifecycle management, and security analytics.
+Built and validated custom threat detections using KQL and Microsoft Defender telemetry. Developed detection logic, ATT&CK-aligned coverage mapping, validation workflows, and investigation procedures for credential dumping, persistence, lateral movement, scheduled task abuse, and encoded PowerShell execution.
 
 Tech:
-- Microsoft Defender
-- KQL
-- MITRE ATT&CK
-- Detection Validation
-- Threat Detection
+
+Microsoft Defender for Endpoint
+KQL
+MITRE ATT&CK
+Detection Engineering
+Threat Hunting
+Security Analytics
 
 👉 https://github.com/tleanne1/detection-engineering-lab
 
