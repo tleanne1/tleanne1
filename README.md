@@ -95,6 +95,15 @@ Developed an enterprise AI security framework for evaluating risks associated wi
   
 ---
 
+## 📜 Certifications
+
+- Security+ (In Progress)
+- Advanced Python Development
+- Advanced React Development
+- Junior Frontend Development
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tracey%20Buentello-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tleanne/)
