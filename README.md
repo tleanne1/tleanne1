@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>Cybersecurity Professional | AI Security Engineer • SOC Automation • Threat Detection</h1>
+<h1 align="center">Hi, I'm Tracey Buentello 👋<br/>🧠 Focused on AI security, threat detection, security automation, and risk reduction.</h1>
 
 <p>
 🔐 Passionate about securing digital environments through hands-on detection, response, vulnerability management, dark web monitoring, and intelligent automation. <br/>
 🤖 I build AI-powered SOC tooling that simulates how real analysts triage, pivot, escalate, and document investigations. <br />
-💻 Frontend dev experience in modern JavaScript frameworks. <br/>
 💼 Open to Remote & On-Site Roles
 </p><br />
 
@@ -23,7 +22,7 @@ I specialize in combining automation, AI-driven detection engineering, and vulne
 ## 🚨 Flagship SOC Automation Platform — Agentic SOC Analyst
 
 ### 🧠 Agentic SOC Engine (AI Threat Hunting Core)
-AI-powered SOC automation engine that converts analyst intent into safe KQL hunts, baselines normal activity, pivots investigations, maps kill-chain stages, and guides escalation decisions.
+AI-powered threat hunting platform that converts analyst intent into safe KQL investigations, performs automated pivot analysis, identifies anomalies, maps kill-chain stages, and recommends escalation actions.
 
 **Tech:** Python • Azure Log Analytics (KQL) • Microsoft Defender • OpenAI  
 👉 https://github.com/tleanne1/agentic_ai_agent_v3
@@ -31,14 +30,14 @@ AI-powered SOC automation engine that converts analyst intent into safe KQL hunt
 ---
 
 ### 🖥️ Agentic SOC Dashboard (SOC Command & Decision UI)
-SOC-style command dashboard UI that sits on top of the engine to visualize investigations, triage risk, preserve analyst knowledge, and mirror real SOC workflows.
+Analyst-focused investigation platform that visualizes hunt results, preserves investigation context, tracks cases, and supports AI-assisted security operations workflows.
 
 **Tech:** Next.js • React • TypeScript • TailwindCSS  
 👉 https://github.com/tleanne1/agentic_soc_ui
 
 ---
 
-## 🔐 Cloud & Security Projects
+## 🛡️ Security Engineering Projects
 
 - 🚀 **[Creation of SOC and Honeynet in Azure](https://github.com/tleanne1/Cloud-SOC)**  
   Built a cloud-based Security Operations Center (SOC) and honeynet to simulate attacker behavior, collect telemetry, and enhance detection strategies.
@@ -50,6 +49,13 @@ SOC-style command dashboard UI that sits on top of the engine to visualize inves
   
 - 🔧 **[20+ STIG Remediations via PowerShell](https://github.com/tleanne1/STIGS-PowerShell-Scripts)**  
   Automated DISA STIGs remediation using PowerShell to enforce compliance across Windows systems.
+
+---
+
+## ⚡ Detection Engineering
+
+• Custom Microsoft Defender Detection Development
+Built and tuned custom detections using KQL and Microsoft Defender telemetry to identify suspicious activity and improve alert fidelity.
 
 ---
 
@@ -72,7 +78,7 @@ SOC-style command dashboard UI that sits on top of the engine to visualize inves
 
 ---
 
-🤖 🤖 AI Security & Risk Management
+🤖 AI Security & Risk Management
 
 ### AI Security Risk Assessment Framework
 
