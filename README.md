@@ -8,14 +8,14 @@
 </p><br />
 
 
-I'm a cybersecurity professional and frontend developer with a strong background in:
+I'm a cybersecurity professional with experience in security operations, threat detection, vulnerability management, AI security, security automation, and enterprise risk management. My work focuses on helping organizations reduce risk through detection engineering, threat hunting, vulnerability remediation, AI governance, and security control design.
 
-- **Threat Detection, Vulnerability Management, Dark Web Monitoring, and Incident Response**
-- **SIEM and EDR platforms** l(Microsoft Defender for Endpoint, Sentinel, Azure Log Analytics)
-- **Tenable vulnerability scanning**, remediation workflows, and risk prioritization
-- **Security automation**, detection engineering, and AI-assisted SOC workflows
-- **PowerShell and KQL scripting** for investigation and remediation
-- **Frontend Development** using React, TailwindCSS, and JavaScript
+- **Threat Detection, Threat Hunting, Vulnerability Management, and Incident Response**
+- **SIEM, EDR, and Cloud Security Platforms** (Microsoft Defender for Endpoint, Microsoft Sentinel, Azure Log Analytics)
+- **Enterprise Vulnerability Management** including Tenable onboarding, remediation workflows, risk prioritization, and audit support
+- **Security Automation & Detection Engineering** using KQL, Python, and AI-assisted SOC workflows
+- **AI Security & Risk Management** including threat modeling, governance, vendor risk assessments, and NIST AI RMF alignment
+- **PowerShell and KQL Scripting** for investigations, automation, and remediation
 
 I specialize in combining automation, AI-driven detection engineering, and vulnerability management to proactively hunt threats and reduce risk across cloud and on-prem environments.
 
@@ -76,7 +76,7 @@ SOC-style command dashboard UI that sits on top of the engine to visualize inves
 
 ### AI Security Risk Assessment Framework
 
-Enterprise framework focused on:
+Developed an enterprise AI security framework for evaluating risks associated with LLM adoption, AI governance, threat modeling, vendor risk management, and security control design.
 
 - AI Governance
 - Threat Modeling
