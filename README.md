@@ -24,6 +24,15 @@ I specialize in combining automation, AI-driven detection engineering, and vulne
 ### 🧠 Agentic SOC Engine (AI Threat Hunting Core)
 AI-powered threat hunting platform that converts analyst intent into safe KQL investigations, performs automated pivot analysis, identifies anomalies, maps kill-chain stages, and recommends escalation actions.
 
+Features:
+
+• Cognitive threat hunting
+• Automated KQL generation
+• Kill-chain mapping
+• Escalation recommendations
+• Baseline anomaly detection
+• Host isolation workflows
+
 **Tech:** Python • Azure Log Analytics (KQL) • Microsoft Defender • OpenAI  
 👉 https://github.com/tleanne1/agentic_ai_agent_v3
 
