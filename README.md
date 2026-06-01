@@ -78,11 +78,11 @@ Developed and tuned custom detections using KQL and Microsoft Defender telemetry
 
 ---
 
-🤖 AI Security & Risk Management
+🧠🛡️ AI Security & Risk Management
 
 ### AI Security Risk Assessment Framework
 
-Developed an enterprise AI security framework for evaluating risks associated with LLM adoption, AI governance, threat modeling, vendor risk management, and security control design.
+Designed an enterprise AI security governance and risk assessment framework aligned to the NIST AI Risk Management Framework (AI RMF). Includes AI threat modeling, vendor risk assessments, governance controls, security control mapping, and enterprise risk evaluation methodologies.
 
 - AI Governance
 - Threat Modeling
