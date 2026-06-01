@@ -54,7 +54,7 @@ Analyst-focused investigation platform that visualizes hunt results, preserves i
 
 ## ⚡ Detection Engineering
 
-• Custom Microsoft Defender Detection Development
+- Custom Microsoft Defender Detection Development
 Built and tuned custom detections using KQL and Microsoft Defender telemetry to identify suspicious activity and improve alert fidelity.
 
 ---
