@@ -54,8 +54,16 @@ Analyst-focused investigation platform that visualizes hunt results, preserves i
 
 ## ⚡ Detection Engineering
 
-- Microsoft Defender Detection Engineering
-Developed and tuned custom detections using KQL and Microsoft Defender telemetry to identify suspicious PowerShell activity, persistence mechanisms, and anomalous endpoint behavior while reducing false positives.
+Built a structured detection engineering framework using KQL, MITRE ATT&CK mapping, validation workflows, detection lifecycle management, and security analytics.
+
+Tech:
+- Microsoft Defender
+- KQL
+- MITRE ATT&CK
+- Detection Validation
+- Threat Detection
+
+👉 https://github.com/tleanne1/detection-engineering-lab
 
 ---
 
